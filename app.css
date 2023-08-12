@@ -1,0 +1,61 @@
+body{
+    background-color: white
+}
+
+header{
+    background-color: black;
+    color: aliceblue;
+    padding: 1rem;
+}
+
+header h1{
+    text-align: center;
+}
+ 
+img{
+    transform: box-shadow 0.5s ease;
+    border-radius: 30px;
+    margin-left: 670px;
+    cursor: pointer;
+    
+}
+
+img:hover{
+    box-shadow: 0 0.1rem 0.4rem black;
+
+}
+
+* h1 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.b1{
+    transition:  box-shadow 0.3s ease;
+    margin-right: 800px;
+    color: white;
+    cursor: pointer;
+}
+
+.b1:hover{
+    box-shadow: 0 0.1rem 0.4rem white;
+}
+
+p{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+
+footer{
+    background-color: black;
+    padding: 1rem 1rem;
+} 
+
+
+
+
+
+
+
